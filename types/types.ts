@@ -1,0 +1,1 @@
+export type TPlan = "basic" | "business" | "enterprise";
